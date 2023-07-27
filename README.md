@@ -1,6 +1,5 @@
 # Bootcamp-Project-1-Python
-Based on what you’ve learned until now, create a project of your choosing (impress us
-with your imagination). This project must at least satisfy the following minimum requirements:
+### Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). This project must at least satisfy the following minimum requirements:
 
 - Use at least 3 different data types.
 - Use lists or dictionaries or tuples or sets.
@@ -11,9 +10,10 @@ with your imagination). This project must at least satisfy the following minimum
 
 
 
-Example#3: Riyadh Season Reservations
+## Example: Riyadh Season Reservations
 
-Overview: An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+**Overview:** An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+
 As a visitor, I should be able to do the following:
 
 - Browse Events.
@@ -28,9 +28,8 @@ As a visitor, I should be able to do the following:
 - Get a QR code for my ticket.
 - Review my coming events.
 
-Final Deliverables:
-
+## Final Deliverables:
 - Notebook file(.ipynb).
 - README.md file.
-- Due Date: Sun, 15, at 08:00 a.m.
+- Due Date: Sat 29, at 11:00 p.m.
 - The Final presentation will be on Sunday (5 min for each one).
